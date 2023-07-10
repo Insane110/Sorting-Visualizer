@@ -7,4 +7,6 @@ Techniques such as:-
 4. Heap Sort
 5. Selection Sort
 6. Bubble Sort
+
+   
 These techniques will be visualized in the interface.
