@@ -119,6 +119,9 @@ async function selectionSort(array) {
             await sleep(speedFactor);
         }
     }
+    for (let i = 0; i < bars.length; i++) {
+        bars[i].style.backgroundColor = "green";
+    }
     return array;
 }
 function swap(items, leftIndex, rightIndex, bars) {
